@@ -1,12 +1,21 @@
 # Elasticsearch 入门教程
 
-此项目是我看完下面几篇文章之后写的 Elasticsearch 测试案例。
+**此项目是我看完下面几篇文章之后写的 Elasticsearch 测试案例。**
+
+> 百度百科：https://baike.baidu.com/item/elasticsearch/3411206?fr=aladdin
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ElasticSearch 是一个基于 Lucene 的搜索服务器。它提供了一个分布式多用户能力的全文搜索引擎，基于 RESTful web 接口。Elasticsearch 是用Java开发的，并作为 Apache 许可条款下的开放源码发布，是当前流行的企业级搜索引擎。设计用于云计算中，能够达到实时搜索，稳定，可靠，快速，安装使用方便。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们建立一个网站或应用程序，并要添加搜索功能，但是想要完成搜索工作的创建是非常困难的。我们希望搜索解决方案要运行速度快，我们希望能有一个零配置和一个完全免费的搜索模式，我们希望能够简单地使用 JSON 通过 HTTP 来索引数据，我们希望我们的搜索服务器始终可用，我们希望能够从一台开始并扩展到数百台，我们要实时搜索，我们要简单的多租户，我们希望建立一个云的解决方案。因此我们利用 Elasticsearch 来解决所有这些问题及可能出现的更多其它问题。
 
 ## 全文搜索引擎 Elasticsearch 入门教程
-`建议先看这篇文章`：[全文搜索引擎 Elasticsearch 入门教程 - 阮一峰](http://www.ruanyifeng.com/blog/2017/08/elasticsearch.html)
+请前往：http://www.ruanyifeng.com/blog/2017/08/elasticsearch.html `建议先看这篇文章`
+
+## Elasticsearch学习，请先看这一篇
+请前往：https://blog.csdn.net/makang110/article/details/80596017
 
 ## Elasticsearch环境搭建和介绍（Windows）
-[Elasticsearch环境搭建和介绍（Windows）](https://blog.csdn.net/chen_2890/article/details/83757022)
+请前往：https://blog.csdn.net/chen_2890/article/details/83757022
 `Linux的搭建请自行百度`
 
 上文中使用的版本：
@@ -21,7 +30,7 @@
 
     ![img](https://img-blog.csdnimg.cn/20190508162742990.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM0ODQ1Mzk0,size_16,color_FFFFFF,t_70)
 
-- `Elasticsearch 5.6.16`
+- `Elasticsearch` 5.6.16
 
     ![img](https://img-blog.csdnimg.cn/20190508161528848.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM0ODQ1Mzk0,size_16,color_FFFFFF,t_70)
 
